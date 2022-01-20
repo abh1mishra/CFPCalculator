@@ -1,0 +1,56 @@
+x = 65165
+y = 1651651
+z = x + y
+print z 
+y = -16516
+z = x + y
+print z 
+z = y + x
+print z
+j = x + z
+print j
+j = z + x
+print j
+a = 56.6
+b = x + a
+print b
+o = y + y
+print o
+o = y + z
+print o
+o = z + y
+print o
+b = y + a
+print b
+b = a + y
+print b
+k = 0
+p = -1
+s = k * p
+print s
+q = k + s
+print q
+q = s + s
+print q
+a = 15616
+b = 512
+c = a * b
+print c
+c = b * a
+print c
+b = -512
+c = a * b
+print c
+n = c * o
+print n
+g = 0
+m = c * g
+print m
+m = c * q
+print m
+m = q * a
+print m
+z = p * y
+print y
+print z
+

@@ -1,0 +1,11 @@
+x = 0.14
+print x
+y = -5.15
+print y
+a = x + y
+print a
+z = x * y
+print z
+o = 1.0
+print o
+display o
